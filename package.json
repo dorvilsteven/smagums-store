@@ -1,0 +1,20 @@
+{
+  "name": "smagums-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorvilsteven/smagums-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorvilsteven/smagums-store/issues"
+  },
+  "homepage": "https://github.com/dorvilsteven/smagums-store#readme"
+}
